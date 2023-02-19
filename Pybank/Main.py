@@ -5,7 +5,7 @@ import os
 import csv
 
 # Setting path
-filepath = os.path.join('budget_data.csv')
+filepath = os.path.join('.','Resources','budget_data.csv')
 
 # Creating list 
 budget_data = []
